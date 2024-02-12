@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Cmov : MonoBehaviour
 {
+    int movspeed;
     // Start is called before the first frame update
     void Start()
     {
